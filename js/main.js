@@ -1,1 +1,1 @@
-alert("Test JavaScrit");
+alert("Test JavaScript");
